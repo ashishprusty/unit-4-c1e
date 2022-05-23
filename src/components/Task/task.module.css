@@ -1,0 +1,7 @@
+.task {
+  display:flex;
+  width:55%;
+  margin:auto;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
